@@ -67,10 +67,10 @@
     "extra": {
         "laravel": {
             "providers": [
-                "laravel-rabbitmq\\LaravelRabbitmq\\LaravelRabbitmqServiceProvider"
+                "LaravelRabbitmq\\LaravelRabbitmqServiceProvider"
             ],
             "aliases": {
-                "LaravelRabbitmq": "laravel-rabbitmq\\LaravelRabbitmq\\Facades\\LaravelRabbitmq"
+                "LaravelRabbitmq": "LaravelRabbitmq\\Facades\\LaravelRabbitmq"
             }
         }
     },
